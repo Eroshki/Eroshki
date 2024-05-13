@@ -4,7 +4,7 @@
 <br>
 <br>
 <br>
-<a href="https://github.com/eienwq/" target"blank_"><img src="https://cdn.discordapp.com/attachments/936702847377080442/1002985016961282139/unknown.png"></a>
+<a href="https://github.com/EienwqOfficial/" target"blank_"><img src="https://cdn.discordapp.com/attachments/936702847377080442/1002985016961282139/unknown.png"></a>
 <br>
 <br>
 <br>
