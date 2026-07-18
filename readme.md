@@ -47,6 +47,6 @@
 <div align="center">
 <h3>Discord Activity</h3>
    <a href="https://discord.com/users/226029401085575168">
-     <img src="https://lanyard.cnrad.dev/api/226029401085575168?theme=dark&idleMessage=%F0%9F%9B%A0%EF%B8%8F%20Developing...&bg=070709&borderRadius=15px" />
+     <img src="https://lanyard.cnrad.dev/api/226029401085575168?bg=070707&borderRadius=32px&idleMessage=%F0%9F%A4%8D%20Copyright%20%C2%A9%202026%20Statify%20%F0%9F%A4%8D&showDisplayName=true&theme=dark" />
    </a>
 </div>
